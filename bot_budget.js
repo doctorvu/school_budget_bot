@@ -1,6 +1,6 @@
-var token = "1834670644:AAFJz7Bmr-WhdwCn-DbgBKU0Sa3fCA0lk74"; 
+var token = "your bor token"; 
 var telegramUrl = "https://api.telegram.org/bot" + token;
-var webAppUrl = "https://script.google.com/macros/s/AKfycbyIoFKL5TVSjkehnSqG7_lojGlqRZtBcdbK4iTCw5l6AOPAFoki/exec";
+var webAppUrl = "your docs url";
 
 
 function setWebhook() {
